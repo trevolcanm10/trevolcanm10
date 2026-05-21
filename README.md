@@ -122,16 +122,17 @@ Aplicación móvil en desarrollo enfocada en evaluación y predicción de nivele
 
 ## 🧠 Forma de trabajo
 
-- Comprendo el problema antes de analizar los datos  
-- Limpio y preparo los datos de forma estructurada  
-- Documento el proceso de análisis  
-- Presento resultados de manera clara y comprensible  
+- Comprendo primero el problema antes de desarrollar la solución  
+- Me enfoco en escribir código estructurado y mantenible
+- Documento mis proyectos y procesos de desarrollo
+- Busco combinar lógica, datos y diseño funcional en cada proyecto
+- Aprendo constantemente nuevas tecnologías y buenas prácticas  
 
 ---
 
 ## 🎯 Objetivo actual
 
-Seguir fortaleciendo mis habilidades en análisis de datos y adquirir experiencia práctica a través de proyectos.
+Seguir creciendo como desarrollador backend y fortalecer mis habilidades en machine learning, arquitectura de software y desarrollo de aplicaciones escalables.
 
 
 <!-- ===================== -->
