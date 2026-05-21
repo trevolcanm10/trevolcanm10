@@ -22,12 +22,15 @@
 
 ## 👨‍💻 Sobre mí
 
-🎓 Soy estudiante de Ingeniería de Software con interés principal en el análisis de datos.  
-📊 Me enfoco en trabajar con datos para generar insights y apoyar la toma de decisiones.  
-💻 El desarrollo de software me brinda una base técnica sólida para entender sistemas y procesos.  
-🔐 Actualmente exploro fundamentos de ciberseguridad como área complementaria.
+🎓 Soy estudiante de Ingeniería de Software apasionado por el desarrollo backend, las aplicaciones móviles y el machine learning.
 
-Me encuentro en constante aprendizaje, desarrollando proyectos prácticos donde aplico SQL, Python y herramientas de visualización.
+💻 Disfruto construir APIs, aplicaciones web y soluciones móviles orientadas a resolver problemas reales mediante tecnología y datos.
+
+📊 He desarrollado proyectos relacionados con análisis predictivo, desarrollo web y sistemas móviles utilizando Python, Java y Flutter.
+
+🔐 Actualmente también exploro fundamentos de ciberseguridad y arquitectura de software como complemento a mi formación.
+
+🚀 Me encuentro en constante aprendizaje, desarrollando proyectos prácticos donde aplico backend, análisis de datos y desarrollo móvil.
 
 ---
 <table>
@@ -35,7 +38,7 @@ Me encuentro en constante aprendizaje, desarrollando proyectos prácticos donde 
 <td width=50%>
   
 ## 🛠️ Tecnologías
-### 📊 Análisis de Datos
+### 📊 Data & Machine Learning
 ![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=sqlite&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-000000?style=flat&logo=pandas&logoColor=white)
@@ -43,6 +46,13 @@ Me encuentro en constante aprendizaje, desarrollando proyectos prácticos donde 
 - SQL  
 - Python (pandas)  
 - Power BI  
+### 📊 Backend & Desarrollo
+- Python
+- Java
+- FastAPI
+- Flask
+- Flutter
+- APIs REST
 
 ### 🧰 Herramientas
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white)
@@ -52,9 +62,13 @@ Me encuentro en constante aprendizaje, desarrollando proyectos prácticos donde 
 - Git y GitHub  
 - Google Colab  
 - Visual Studio Code
+- Cline
 ### 🧠 Fundamentos
 - Fundamentos de desarrollo de software  
 - Modelado y análisis de datos
+- Arquitectura de software
+- Desarrollo backend
+- Desarrollo móvil
 </td>
 <td>
 <img src="https://i.pinimg.com/1200x/5a/85/8d/5a858db12c20d88293f848441f36c1a7.jpg" width="100%" />
@@ -77,7 +91,30 @@ Me encuentro en constante aprendizaje, desarrollando proyectos prácticos donde 
 ### 📌 Análisis de Ventas con SQL
 - Consultas SQL orientadas a preguntas de negocio  
 - Análisis de ingresos y rentabilidad  
-- Visualización de KPIs en Power BI  
+- Visualización de KPIs en Power BI
+  
+### 📌 Sistema Predictor de la Premier League
+Sistema predictivo desarrollado en Python orientado al análisis de estadísticas deportivas y predicción de resultados.
+- Procesamiento y análisis de datos deportivos
+- Predicción de resultados de partidos
+- Manejo de datasets y métricas
+- Aplicación de modelos predictivos
+  
+### ✈️ Web para Agencia de Viajes
+Desarrollo de una web enfocada en presentación de servicios turísticos y experiencia visual para usuarios.
+- Desarrollo web con Python
+- Diseño orientado a negocio
+- Landing page moderna y funcional
+- Organización de contenido y navegación
+  
+### 📱 App Móvil de Evaluación de Ansiedad
+Aplicación móvil en desarrollo enfocada en evaluación y predicción de niveles de ansiedad utilizando machine learning.
+- Versiones desarrolladas con Python y Java
+- Backend con FastAPI, Flask y Spring Boot
+- Aplicación móvil desarrollada con Flutter
+- Sistema de autenticación y gestión de usuarios
+- Integración de modelos predictivos
+- APIs REST y arquitectura modular
 
 📄 *Cada proyecto cuenta con documentación clara que explica el contexto, el proceso y las conclusiones.*
 
